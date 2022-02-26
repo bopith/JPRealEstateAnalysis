@@ -1,4 +1,4 @@
-# Japanese Real Estate Analysis with SQL and Tableau
+# Japan Real Estate Analysis with SQL and Tableau
 This repository contains SQL queries for the analysis on Japan real estate price from 2005 to 2021.
 Withing the scope of this project, only real estates in Tokyo and Saitama prefectures are analysed as
 they are the major prefectures. Also, since they are located closed to each other, it is intereting
