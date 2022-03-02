@@ -30,4 +30,4 @@ For a complete presentation of the data visualization, please visit the followin
 Our findings are summarized as follows:
 - Both number and average price of real estates in Tokyo are significantly higher than those in Saitama.
 - In Saitama, residential land (land and building) has the largest share, while pre-owned condominiums has the largest share in Tokyo.
-- Average price of condominiums does not fluctuate much comparing to residential land in both prefectures.
+- Average price of condominiums does not fluctuate much comparing to those of residential lands in both prefectures.
