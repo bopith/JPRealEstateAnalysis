@@ -5,7 +5,7 @@ they are the major prefectures. Also, since they are located closed to each othe
 to see if there is any differences in terms of their price and the number of transactions.
 
 ## Data
-The dataset used in this analysis is a record of real estate transaction prices in Japan from 2005 to 2019, surveyed by the 
+The dataset used in this analysis is a record of real estate transaction prices in Japan from 2005 to 2021, surveyed by the 
 MLIT(Ministry of Land, Infrastructure, Transport and Tourism of Japan). contains real estate transaction prices for 47 prefectures in Japan,
 yet only Tokyo and Saitama prefectures are included in this study. 
 
