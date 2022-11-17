@@ -21,7 +21,8 @@ Original dataset can be found on this link: https://www.land.mlit.go.jp/webland_
 The query outputs from `Tableau Project Queries.sql` were transformed and 
 saved as excel files for importing into Tableau.
 
-Screenshots of dashboard are in "Dashboard Screenshots" folder.
+Dashboard
+![Real Estate Price Comparison Dashboard](https://github.com/bopith/SQL-TableauProject/blob/Dashboard Screenshots/1-dashboard_saitamavstokyo.png?raw=true)
 
 For a complete presentation of the data visualization, please visit the following link:
 [JP Real Estate Visualization Dashboard](https://public.tableau.com/app/profile/bopith.bun/viz/TableauProject-JPRealEstate/saitamavstokyo)
