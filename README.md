@@ -22,6 +22,8 @@ The query outputs from `Tableau Project Queries.sql` were transformed and
 saved as excel files for importing into Tableau.
 
 Screenshots of the project visualization are found in `Dashboard Screenshots` folder.
+Sample dashboard:
+![Alt Image text](/Dashboard Screenshots/1-dashboard_saitamavstokyo.png?raw=true "Comparison of real estate prices between Saitama and Tokyo")
 
 For a complete presentation of the data visualization, please visit the following link:
 [JP Real Estate Visualization Dashboard](https://public.tableau.com/app/profile/bopith.bun/viz/TableauProject-JPRealEstate/saitamavstokyo)
