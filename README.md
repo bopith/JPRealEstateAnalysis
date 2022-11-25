@@ -22,6 +22,7 @@ The query outputs from `Tableau Project Queries.sql` were transformed and
 saved as excel files for importing into Tableau.
 
 Screenshots of the project visualization are found in `Dashboard Screenshots` folder.
+
 Sample dashboard:
 ![Dashboard](https://github.com/bopith/JPRealEstateAnalysis/DashboardScreenshots/1-dashboard_saitamavstokyo.png?raw=true)
 
