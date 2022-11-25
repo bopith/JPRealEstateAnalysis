@@ -23,7 +23,7 @@ saved as excel files for importing into Tableau.
 
 Screenshots of the project visualization are found in `Dashboard Screenshots` folder.
 Sample dashboard:
-![Dashboard](https://github.com/bopith/JPRealEstateAnalysis/[Dashboard Screenshots]/1-dashboard_saitamavstokyo.png?raw=true)
+![Dashboard](https://github.com/bopith/JPRealEstateAnalysis/"Dashboard Screenshots"/1-dashboard_saitamavstokyo.png?raw=true)
 
 For a complete presentation of the data visualization, please visit the following link:
 [JP Real Estate Visualization Dashboard](https://public.tableau.com/app/profile/bopith.bun/viz/TableauProject-JPRealEstate/saitamavstokyo)
