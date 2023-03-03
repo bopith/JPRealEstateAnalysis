@@ -1,4 +1,6 @@
 # Japan Real Estate Analysis with SQL and Tableau
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/bopithbun/) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&colorB=555)](https://public.tableau.com/app/profile/bopith.bun) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&colorB=555)](https://github.com/bopith) <img alt="GitHub" src="https://img.shields.io/github/license/bopith/JPRealEstateAnalysis?style=for-the-badge"> 
+
 This repository contains SQL queries for the analysis on Japan real estate price from 2005 to 2021.
 Withing the scope of this project, only real estates in Tokyo and Saitama prefectures are analysed as
 they are the major prefectures. Also, since they are located closed to each other, it is intereting
